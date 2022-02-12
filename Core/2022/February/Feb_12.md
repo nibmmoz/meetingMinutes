@@ -18,5 +18,3 @@
  
 - Finalize the count down posts
 
-
-## this is a sample ---------------------------------
