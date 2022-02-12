@@ -19,4 +19,4 @@
 - Finalize the count down posts
 
 
-## this is a sample --------------------------------------------------------------
+## this is a sample ---------------------------------
