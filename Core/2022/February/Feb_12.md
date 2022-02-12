@@ -1,7 +1,5 @@
 # Feb 12, 2022 18:00-20:00 | Introduction to Mozilla Club - Event Planing 
 
-## this is a sample
-
 ## Attendees
 
 - Vileka Karunarathne
@@ -19,3 +17,6 @@
 ## Action Items 🚧
  
 - Finalize the count down posts
+
+
+## this is a sample --------------------------------------------------------------
