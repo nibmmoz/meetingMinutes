@@ -1,20 +1,27 @@
-# Feb 12, 2022 18:00-20:00 | Introduction to Mozilla Club - Event Planing 
+#  Introduction to Mozilla Club - Event Planing 
 
-## Attendees
+## Participants
 
-- Vileka Karunarathne
-- Yashmi Arksha
 - Navin Thamindu
+- Yashmi Arksha
+- Vileka Karunarathne
 - Roshain Fernando
+- Imran Rasheedd
 
+## 🏆Just finished a meeting!
 
- ## Discussion 🎯
+# 🗓️ Feb 12 | 18.00-21.30 (IST)
 
-- Doing a live checkup on Microsoft teams.
-- Discussion about adapting to the agenda of the event
+## 💡What we discussed:
+- Assigning Tasks for the Feb 15 Event
+- Finalizing the Agenda for Feb 15
+- Chosing social Media platforms to publish Content as the Moz club
+- Meeting Minutes GitHub repo walkthrough
+- Background Checks on live Stream tools
+- Practicing Live Stream management
 
-
-## Action Items 🚧
- 
-- Finalize the count down posts
+## 🎯 Action Items
+- Provide Yashmi with Details about the Club
+- Assign Roshain with Admin privileges for social Media Accounts
+- Make still Image Flyers
 
