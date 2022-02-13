@@ -1,4 +1,5 @@
 #  Introduction to Mozilla Club - Event Planing 
+# 🗓️ Feb 12 | 18.00-21.30 (IST)
 
 ## Participants
 
@@ -7,10 +8,6 @@
 - Vileka Karunarathne
 - Roshain Fernando
 - Imran Rasheedd
-
-## 🏆Just finished a meeting!
-
-# 🗓️ Feb 12 | 18.00-21.30 (IST)
 
 ## 💡What we discussed:
 - Assigning Tasks for the Feb 15 Event
